@@ -14,7 +14,7 @@ then install dependencies:
 npm install
 ```
 
-to excutre run in console:
+to excute run in console:
 
 ```
 npm start
