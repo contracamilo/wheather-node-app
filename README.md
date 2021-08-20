@@ -1,11 +1,22 @@
-## CLI task creation Console App
+## CLI Weather by geolocation Console App
 
-Weather console app
+Weather console app.
 
-Run in console:
+APIs used:
 
+- [Map box](https://docs.mapbox.com/)
+- [Open Weather Map](https://openweathermap.org/)
+
+use the example.env to create a .env file with the correct API keys.
+
+then install dependencies:
 ```
 npm install
+```
+
+to excutre run in console:
+
+```
 npm start
 ```
 
